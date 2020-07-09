@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p class="message">
     “Become antifragile or die” - Some old wise guy
-</p>
 
 <h2><a href="https://safwankdb.github.io/about" style="color: #000000">Who am I?</a></h2>    
 
